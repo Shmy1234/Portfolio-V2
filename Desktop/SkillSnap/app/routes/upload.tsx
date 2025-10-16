@@ -79,7 +79,7 @@ const Upload = () => {
     }
 
     return (
-        <main className="bg-blue-500 bg-cover">
+        <main className="bg-gradient-to-r from-black to-purple-900 bg-cover">
             <Navbar />
 
             <section className="main-section">
